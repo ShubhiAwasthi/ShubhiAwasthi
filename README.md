@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 I am currently pursuing Bachelor's Degree in Computer Science with minor in Machine Learning!
 
 I know sound knowledge HTML and CSS, along with Python, C++, and Java! Of course I still have a lot to learn...  So...yeah! I'm trying to learn new things too along with mastering the stuff I already know!! 😄
+
+![Shubhi's Github stats](https://github-readme-stats.vercel.app/api?username=ShubhiAwasthi&show_icons=true&theme=highcontrast)
